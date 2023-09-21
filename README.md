@@ -1,4 +1,4 @@
-![](https://habbofont.net/font/habbo_oldschool/trax+server.gif)
+
 
 # Information
 
