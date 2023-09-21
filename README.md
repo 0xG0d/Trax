@@ -21,13 +21,3 @@ The Reason of the security flaws on old school retros, is because the version of
 ### Server
 
 - Denial of Service/DDoS Protection Rate Limiting
-
-# Screenshots
-
-![image](https://user-images.githubusercontent.com/1328523/188254181-edc73039-bef7-4dc8-af0b-46541cec9b4c.png)
-
-![image](https://user-images.githubusercontent.com/1328523/188254211-c9f9bf21-4c60-444f-b3b6-a8713c72d9b0.png)
-
-![image](https://user-images.githubusercontent.com/1328523/188254197-30a5b3d3-7854-403c-a863-508c2300a086.png)
-
-![image](https://user-images.githubusercontent.com/1328523/188258240-185c1233-0178-4ace-a9af-b3a22077e32d.png)
